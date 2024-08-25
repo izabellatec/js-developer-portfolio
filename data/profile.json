@@ -39,5 +39,12 @@
       "url": "https://github.com/RenanJPaula/js-developer-portfolio",
       "github": true
     }
+  ],
+    "professionalExperience": [
+      {
+        "name": "tech lead/dio",
+        "period": "2021-2022",
+        "description": "anos incriveis ao lado de pessoas maravilhosas ajudando empresas ao redor do mundo."
+      }
   ]
 }
